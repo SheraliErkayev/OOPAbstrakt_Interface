@@ -1,0 +1,15 @@
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\bin\Debug\net6.0\OOPAbstrakt_Interface.exe
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\bin\Debug\net6.0\OOPAbstrakt_Interface.deps.json
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\bin\Debug\net6.0\OOPAbstrakt_Interface.runtimeconfig.json
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\bin\Debug\net6.0\OOPAbstrakt_Interface.dll
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\bin\Debug\net6.0\OOPAbstrakt_Interface.pdb
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.csproj.AssemblyReference.cache
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.AssemblyInfoInputs.cache
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.AssemblyInfo.cs
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.dll
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\refint\OOPAbstrakt_Interface.dll
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.pdb
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\OOPAbstrakt_Interface.genruntimeconfig.cache
+C:\Users\Abdus\source\repos\OOPAbstrakt&Interface\OOPAbstrakt&Interface\obj\Debug\net6.0\ref\OOPAbstrakt_Interface.dll
